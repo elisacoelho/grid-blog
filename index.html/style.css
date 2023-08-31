@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+
+.header {
+    background-color: rgb(236, 156, 160);
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.grid-item {
+    border: 1px solid #97404e;
+    padding: 1rem;
+    text-align: center;
+    color: #dda8b1;
+}
+
+.footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 1rem;
+}
+
+ 
+
+h2 {
+    text-align: center;
+    color: black;
+}
+.armandinho1{
+    display: block;
+    margin: auto;
+   
+}
+.armandinho2{
+    display: block;
+    margin: auto;
+     
+
+}
+.img-title{
+    margin-bottom: 5px;
+    width:30px;
+    height:30px;
+}
