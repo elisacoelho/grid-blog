@@ -23,7 +23,7 @@
 }
 
 .grid-item {
-    border: 1px solid #97404e;
+    border: 2px solid #ee8999;
     padding: 1rem;
     text-align: center;
     color: #dda8b1;
@@ -42,19 +42,10 @@ h2 {
     text-align: center;
     color: black;
 }
-.armandinho1{
+.armandinho{
     display: block;
     margin: auto;
+    padding: 10px
    
 }
-.armandinho2{
-    display: block;
-    margin: auto;
-     
 
-}
-.img-title{
-    margin-bottom: 5px;
-    width:30px;
-    height:30px;
-}
